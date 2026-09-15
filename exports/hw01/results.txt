@@ -1,0 +1,9 @@
+=== Итоги домашней работы №1 ===
+pressure_matrix shape: (13, 2), ndim: 2, size: 26
+pressure_cube shape: (2, 13, 2), ndim: 3, size: 52
+
+Статистика (min, max, mean):
+      pressure_mpa    radius_m  thickness_m  porosity_fraction
+min           9.42    5.000000          2.0              0.150
+max          12.00  500.000000          7.0              0.240
+mean         10.75  150.714286          4.5              0.195
